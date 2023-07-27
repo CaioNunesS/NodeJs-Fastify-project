@@ -3,7 +3,7 @@
 .env.test
 
 # Database
-db/*.db
+db/**.db
 
 # Dependencies
 node_modules
